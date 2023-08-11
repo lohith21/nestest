@@ -1,3 +1,6 @@
-"Welcome to Git" 
+"Welcome to Git"
+
+"Lohith Ujjannappa"
+"Indumathi Lohith"
 "Rutivk L Devang"
 "Rushita L Devang"
